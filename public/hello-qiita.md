@@ -51,3 +51,7 @@ npx qiita publish ${記事ファイル}
 
 - 環境や端末ごとに `npx qiita login` する必要があり、Qiita トークンの管理が煩雑
 - Git 管理しているのにコミットやプッシュと別に `npx qiita publish` するのが面倒
+
+## まとめ
+
+GitHub 連携はそこまで難しくないので、ぜひみなさんもやってみてください！
