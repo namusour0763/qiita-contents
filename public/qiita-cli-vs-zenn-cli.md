@@ -1,12 +1,12 @@
 ---
 title: ここがツラいよQiita CLI ～Zenn CLIとの比較～
 tags:
-  - 'qiita'
-  - 'github'
-  - 'zenn'
+  - Qiita
+  - GitHub
+  - Zenn
 private: false
-updated_at: ''
-id: null
+updated_at: '2024-08-03T05:18:34+09:00'
+id: ee6e9abacfdc2145bc11
 organization_url_name: null
 slide: false
 ignorePublish: false
