@@ -1,11 +1,11 @@
 ---
 title: Qiitaに入門してみた！～GitHubリポジトリ連携編～
 tags:
-  - 'qiita'
-  - 'github'
+  - Qiita
+  - GitHub
 private: false
-updated_at: ''
-id: null
+updated_at: '2024-08-03T02:48:28+09:00'
+id: db8d7f984d7d056c46f8
 organization_url_name: null
 slide: false
 ignorePublish: false
