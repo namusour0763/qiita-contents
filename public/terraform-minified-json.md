@@ -151,7 +151,6 @@ https://docs.aws.amazon.com/ja_jp/organizations/latest/userguide/org_troubleshoo
 
 https://github.com/hashicorp/terraform-provider-aws/pull/35677
 
-
 ## まとめ
 
 SCP の文字数削減は、OU の継承を利用する、タグで制御する、制限範囲を狭めるなど根本対策が重要です。しかし Terraform を利用しており、これらの対策が困難な場合にはこの機能を使ってみてください！
