@@ -4,7 +4,7 @@ tags:
   - AWS
   - Terraform
 private: false
-updated_at: '2024-08-06T20:42:10+09:00'
+updated_at: '2024-08-06T20:44:43+09:00'
 id: bff75f83502f109b4c80
 organization_url_name: null
 slide: false
