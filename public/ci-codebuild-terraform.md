@@ -1,14 +1,14 @@
 ---
 title: AWS CodeBuild と GitHub で実現する Terraform CI/CD 入門
 tags:
-  - 'cicd'
-  - 'aws'
-  - 'codebuild'
-  - 'terraform'
-  - 'github'
+  - GitHub
+  - AWS
+  - Terraform
+  - CodeBuild
+  - CICD
 private: false
-updated_at: ''
-id: null
+updated_at: '2024-08-06T22:51:33+09:00'
+id: 286b43c3f7d6a56c86a3
 organization_url_name: null
 slide: false
 ignorePublish: false
