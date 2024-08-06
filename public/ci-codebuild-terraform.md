@@ -180,7 +180,7 @@ notifier:
   github:
     token: $GITHUB_TOKEN
     repository:
-      owner: "teradatky"
+      owner: "YOUR_GITHUB_USERNAME"
       name: "ci-codebuild-terraform-20231026"
 terraform:
   plan:
