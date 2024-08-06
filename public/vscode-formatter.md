@@ -1,13 +1,13 @@
 ---
 title: インフラエンジニアに捧ぐ！フォーマッターのススメ VSCode編
 tags:
-  - 'vscode'
-  - 'editor'
-  - 'formatter'
-  - 'linter'
+  - editor
+  - VSCode
+  - Formatter
+  - Linter
 private: false
-updated_at: ''
-id: null
+updated_at: '2024-08-06T21:42:28+09:00'
+id: 480b0b03afed4de0554e
 organization_url_name: null
 slide: false
 ignorePublish: false
