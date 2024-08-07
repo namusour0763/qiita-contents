@@ -7,7 +7,7 @@ tags:
   - CodeBuild
   - CICD
 private: false
-updated_at: '2024-08-06T23:52:10+09:00'
+updated_at: '2024-08-07T20:27:04+09:00'
 id: 286b43c3f7d6a56c86a3
 organization_url_name: null
 slide: false
