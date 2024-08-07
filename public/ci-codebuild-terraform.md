@@ -264,7 +264,7 @@ https://dev.classmethod.jp/articles/codebuild-service-role-checkbox/
 
 2 つのビルドプロジェクトが作成できました。
 
-![codebuild9.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3852183/4f3e93bf-91f6-a969-24a9-2d39017a5d99.png)
+![codebuild9.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3852183/30e5d790-404c-d7c6-c21c-01d8df96c816.png)
 
 ## CI/CD ワークフロー
 
