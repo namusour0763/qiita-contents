@@ -1,12 +1,12 @@
 ---
 title: Aurora Serverless v1 から v2 への移行手順
 tags:
-  - 'aws'
-  - 'rds'
-  - 'aurora'
+  - AWS
+  - RDS
+  - Aurora
 private: false
-updated_at: ''
-id: null
+updated_at: '2024-08-15T15:45:52+09:00'
+id: 69cf637bb57d35b5c2b8
 organization_url_name: null
 slide: false
 ignorePublish: false
