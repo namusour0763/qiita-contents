@@ -1,12 +1,12 @@
 ---
 title: Infracost で Terraform コードからコストを試算してみる
 tags:
-  - 'aws'
-  - 'terraform'
-  - 'infracost'
+  - AWS
+  - Terraform
+  - Infracost
 private: false
-updated_at: ''
-id: null
+updated_at: '2024-08-15T16:52:45+09:00'
+id: 7e2f54f90128f718d00e
 organization_url_name: null
 slide: false
 ignorePublish: false
