@@ -1,11 +1,11 @@
 ---
 title: VSCode で Git リポジトリが表示されない場合の対処
 tags:
-  - 'vscode'
-  - 'git'
+  - Git
+  - VSCode
 private: false
-updated_at: ''
-id: null
+updated_at: '2024-08-15T16:10:22+09:00'
+id: c51ac7bdc6f1db239aa9
 organization_url_name: null
 slide: false
 ignorePublish: false
