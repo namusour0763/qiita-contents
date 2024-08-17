@@ -1,11 +1,11 @@
 ---
 title: EventBridge のフィルターにプレフィックス・サフィックス・以外・大文字小文字無視の条件が追加されました！
 tags:
-  - 'aws'
-  - 'eventbridge'
+  - AWS
+  - EventBridge
 private: false
-updated_at: ''
-id: null
+updated_at: '2024-08-17T21:47:18+09:00'
+id: 6c86a01d00796f57e89c
 organization_url_name: null
 slide: false
 ignorePublish: false
