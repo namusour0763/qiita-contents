@@ -6,7 +6,7 @@ tags:
   - AmazonSNS
   - EventBridge
 private: false
-updated_at: '2024-08-17T21:33:03+09:00'
+updated_at: '2024-08-17T21:51:56+09:00'
 id: ca5a1e49a33b9c42e509
 organization_url_name: null
 slide: false
