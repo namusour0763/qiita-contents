@@ -1,12 +1,12 @@
 ---
 title: GitHub の Saved Replies でコードレビューに心理的安全性を！
 tags:
-  - 'git'
-  - 'github'
-  - 'コードレビュー'
+  - Git
+  - GitHub
+  - コードレビュー
 private: false
-updated_at: ''
-id: null
+updated_at: '2024-08-17T22:53:05+09:00'
+id: face20b832ac4d0365f8
 organization_url_name: null
 slide: false
 ignorePublish: false
