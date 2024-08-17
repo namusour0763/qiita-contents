@@ -84,7 +84,7 @@ IAM の API コールは `us-east-1` リージョンに記録されます。そ�
 :::note warn
 単に `"eventName": ["Create*"]` と書いた場合、意図したワイルドカード動作になりません。詳しい記法は以下を参考にしてください。2023/10/29時点では英語ページにのみワイルドカードの記載があります。
 
-https://docs.aws.amazon.com/eventbridge/latest/userguide/eb-event-patterns-content-based-filtering.html#eb-filtering-wildcard-matching
+https://docs.aws.amazon.com/eventbridge/latest/userguide/eb-create-pattern-operators.html
 :::
 
 ターゲットは作成済みの SNS トピックを選択します。
