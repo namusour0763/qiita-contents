@@ -1,7 +1,9 @@
 ---
 title: GitHub の PR で編集されていない箇所にレビューコメントしたかった
 tags:
-  - ''
+  - 'Git'
+  - 'GitHub'
+  - 'コードレビュー'
 private: false
 updated_at: ''
 id: null
