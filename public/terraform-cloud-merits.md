@@ -1,12 +1,12 @@
 ---
 title: HCP Terraform/Terraform Cloudのメリットをざっくりご紹介！
 tags:
-  - 'terarform'
-  - 'cicd'
-  - 'aws'
+  - AWS
+  - CICD
+  - terarform
 private: false
-updated_at: ''
-id: null
+updated_at: '2024-08-18T16:19:43+09:00'
+id: 7d357086a314eadf4ce5
 organization_url_name: null
 slide: false
 ignorePublish: false
