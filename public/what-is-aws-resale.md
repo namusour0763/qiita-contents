@@ -1,10 +1,10 @@
 ---
 title: AWS のリセール（請求代行サービス）って何？
 tags:
-  - 'AWS'
+  - AWS
 private: false
-updated_at: ''
-id: null
+updated_at: '2024-08-18T14:44:54+09:00'
+id: f6a7ee1b72e80f032c8a
 organization_url_name: null
 slide: false
 ignorePublish: false
