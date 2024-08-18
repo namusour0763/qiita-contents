@@ -1,11 +1,11 @@
 ---
 title: Terraform のディレクトリ構成戦略
 tags:
-  - 'Terraform'
-  - 'AWS'
+  - AWS
+  - Terraform
 private: false
-updated_at: ''
-id: null
+updated_at: '2024-08-18T15:59:22+09:00'
+id: 2490788ad9598836cf7a
 organization_url_name: null
 slide: false
 ignorePublish: false
