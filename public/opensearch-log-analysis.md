@@ -1,13 +1,13 @@
 ---
 title: OpenSearch Service でログ分析入門！
 tags:
-  - 'aws'
-  - 'opensearch'
-  - 'elasticsearch'
-  - 'kibana'
+  - AWS
+  - Elasticsearch
+  - Kibana
+  - OpenSearch
 private: false
-updated_at: ''
-id: null
+updated_at: '2024-09-01T16:42:32+09:00'
+id: ec8fea96c2e247e76dee
 organization_url_name: null
 slide: false
 ignorePublish: false
