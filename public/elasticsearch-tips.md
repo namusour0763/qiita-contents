@@ -1,13 +1,13 @@
 ---
 title: ElasticSearch/Kibanaのトラブルシュート＆Tips
 tags:
-  - 'elasticsearch'
-  - 'opensearch'
-  - 'kibana'
-  - 'aws'
+  - AWS
+  - Elasticsearch
+  - Kibana
+  - OpenSearch
 private: false
-updated_at: ''
-id: null
+updated_at: '2024-09-01T16:27:15+09:00'
+id: c7aa21686ff2a661a758
 organization_url_name: null
 slide: false
 ignorePublish: false
