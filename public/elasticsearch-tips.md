@@ -32,7 +32,7 @@ https://docs.aws.amazon.com/ja_jp/opensearch-service/latest/developerguide/vpc.h
 
 fluentbit を使う想定です。設定ファイルが正しいか、コメントを確認してください。
 
-```toml:fluent-bit.conf
+```fluent-bit.conf
 [OUTPUT]
     Name               es
     Match              apache.access                                              # 対象があっているか
