@@ -1,13 +1,13 @@
 ---
-title: "AWS Network Firewall でドメインによるホワイトリスト通信制御"
+title: AWS Network Firewall でドメインによるホワイトリスト通信制御
 tags:
-  - 'AWS'
-  - 'NetworkFirewall'
-  - 'Security'
-  - 'Proxy'
+  - AWS
+  - Security
+  - proxy
+  - NetworkFirewall
 private: false
-updated_at: ''
-id: null
+updated_at: '2024-09-08T16:17:09+09:00'
+id: 9d21cdd582d3954a9b4d
 organization_url_name: null
 slide: false
 ignorePublish: false
