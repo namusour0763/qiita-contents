@@ -1,10 +1,10 @@
 ---
 title: Python の json.dumps() で TypeError になる場合の対処方法
 tags:
-  - 'python'
+  - Python
 private: false
-updated_at: ''
-id: null
+updated_at: '2024-10-16T01:03:31+09:00'
+id: 63dc55be836eec4078ee
 organization_url_name: null
 slide: false
 ignorePublish: false
